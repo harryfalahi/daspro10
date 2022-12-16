@@ -1,0 +1,15 @@
+C:\Users\ASU\Desktop\tugas daspro\bin\Debug\net6.0\tugas daspro.exe
+C:\Users\ASU\Desktop\tugas daspro\bin\Debug\net6.0\tugas daspro.deps.json
+C:\Users\ASU\Desktop\tugas daspro\bin\Debug\net6.0\tugas daspro.runtimeconfig.json
+C:\Users\ASU\Desktop\tugas daspro\bin\Debug\net6.0\tugas daspro.dll
+C:\Users\ASU\Desktop\tugas daspro\bin\Debug\net6.0\tugas daspro.pdb
+C:\Users\ASU\Desktop\tugas daspro\obj\Debug\net6.0\tugas daspro.csproj.AssemblyReference.cache
+C:\Users\ASU\Desktop\tugas daspro\obj\Debug\net6.0\tugas daspro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASU\Desktop\tugas daspro\obj\Debug\net6.0\tugas daspro.AssemblyInfoInputs.cache
+C:\Users\ASU\Desktop\tugas daspro\obj\Debug\net6.0\tugas daspro.AssemblyInfo.cs
+C:\Users\ASU\Desktop\tugas daspro\obj\Debug\net6.0\tugas daspro.csproj.CoreCompileInputs.cache
+C:\Users\ASU\Desktop\tugas daspro\obj\Debug\net6.0\tugas daspro.dll
+C:\Users\ASU\Desktop\tugas daspro\obj\Debug\net6.0\refint\tugas daspro.dll
+C:\Users\ASU\Desktop\tugas daspro\obj\Debug\net6.0\tugas daspro.pdb
+C:\Users\ASU\Desktop\tugas daspro\obj\Debug\net6.0\tugas daspro.genruntimeconfig.cache
+C:\Users\ASU\Desktop\tugas daspro\obj\Debug\net6.0\ref\tugas daspro.dll
