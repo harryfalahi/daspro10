@@ -1,0 +1,16 @@
+C:\Users\ASU\Desktop\2207135755_M.Harry Falahi_Uts_Daspro\UTS_SOAL_5\obj\Debug\net5.0\UTS_SOAL_5.csproj.AssemblyReference.cache
+C:\Users\ASU\Desktop\2207135755_M.Harry Falahi_Uts_Daspro\UTS_SOAL_5\obj\Debug\net5.0\UTS_SOAL_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASU\Desktop\2207135755_M.Harry Falahi_Uts_Daspro\UTS_SOAL_5\obj\Debug\net5.0\UTS_SOAL_5.AssemblyInfoInputs.cache
+C:\Users\ASU\Desktop\2207135755_M.Harry Falahi_Uts_Daspro\UTS_SOAL_5\obj\Debug\net5.0\UTS_SOAL_5.AssemblyInfo.cs
+C:\Users\ASU\Desktop\2207135755_M.Harry Falahi_Uts_Daspro\UTS_SOAL_5\obj\Debug\net5.0\UTS_SOAL_5.csproj.CoreCompileInputs.cache
+C:\Users\ASU\Desktop\2207135755_M.Harry Falahi_Uts_Daspro\UTS_SOAL_5\bin\Debug\net5.0\UTS_SOAL_5.exe
+C:\Users\ASU\Desktop\2207135755_M.Harry Falahi_Uts_Daspro\UTS_SOAL_5\bin\Debug\net5.0\UTS_SOAL_5.deps.json
+C:\Users\ASU\Desktop\2207135755_M.Harry Falahi_Uts_Daspro\UTS_SOAL_5\bin\Debug\net5.0\UTS_SOAL_5.runtimeconfig.json
+C:\Users\ASU\Desktop\2207135755_M.Harry Falahi_Uts_Daspro\UTS_SOAL_5\bin\Debug\net5.0\UTS_SOAL_5.runtimeconfig.dev.json
+C:\Users\ASU\Desktop\2207135755_M.Harry Falahi_Uts_Daspro\UTS_SOAL_5\bin\Debug\net5.0\UTS_SOAL_5.dll
+C:\Users\ASU\Desktop\2207135755_M.Harry Falahi_Uts_Daspro\UTS_SOAL_5\bin\Debug\net5.0\ref\UTS_SOAL_5.dll
+C:\Users\ASU\Desktop\2207135755_M.Harry Falahi_Uts_Daspro\UTS_SOAL_5\bin\Debug\net5.0\UTS_SOAL_5.pdb
+C:\Users\ASU\Desktop\2207135755_M.Harry Falahi_Uts_Daspro\UTS_SOAL_5\obj\Debug\net5.0\UTS_SOAL_5.dll
+C:\Users\ASU\Desktop\2207135755_M.Harry Falahi_Uts_Daspro\UTS_SOAL_5\obj\Debug\net5.0\ref\UTS_SOAL_5.dll
+C:\Users\ASU\Desktop\2207135755_M.Harry Falahi_Uts_Daspro\UTS_SOAL_5\obj\Debug\net5.0\UTS_SOAL_5.pdb
+C:\Users\ASU\Desktop\2207135755_M.Harry Falahi_Uts_Daspro\UTS_SOAL_5\obj\Debug\net5.0\UTS_SOAL_5.genruntimeconfig.cache

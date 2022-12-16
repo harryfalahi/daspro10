@@ -1,0 +1,16 @@
+C:\Users\ASU\Desktop\2207135755_M.Harry Falahi_Uts_Daspro\UTS_SOAL_2\bin\Debug\net5.0\UTS_SOAL2.exe
+C:\Users\ASU\Desktop\2207135755_M.Harry Falahi_Uts_Daspro\UTS_SOAL_2\bin\Debug\net5.0\UTS_SOAL2.deps.json
+C:\Users\ASU\Desktop\2207135755_M.Harry Falahi_Uts_Daspro\UTS_SOAL_2\bin\Debug\net5.0\UTS_SOAL2.runtimeconfig.json
+C:\Users\ASU\Desktop\2207135755_M.Harry Falahi_Uts_Daspro\UTS_SOAL_2\bin\Debug\net5.0\UTS_SOAL2.runtimeconfig.dev.json
+C:\Users\ASU\Desktop\2207135755_M.Harry Falahi_Uts_Daspro\UTS_SOAL_2\bin\Debug\net5.0\UTS_SOAL2.dll
+C:\Users\ASU\Desktop\2207135755_M.Harry Falahi_Uts_Daspro\UTS_SOAL_2\bin\Debug\net5.0\ref\UTS_SOAL2.dll
+C:\Users\ASU\Desktop\2207135755_M.Harry Falahi_Uts_Daspro\UTS_SOAL_2\bin\Debug\net5.0\UTS_SOAL2.pdb
+C:\Users\ASU\Desktop\2207135755_M.Harry Falahi_Uts_Daspro\UTS_SOAL_2\obj\Debug\net5.0\UTS_SOAL2.csproj.AssemblyReference.cache
+C:\Users\ASU\Desktop\2207135755_M.Harry Falahi_Uts_Daspro\UTS_SOAL_2\obj\Debug\net5.0\UTS_SOAL2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASU\Desktop\2207135755_M.Harry Falahi_Uts_Daspro\UTS_SOAL_2\obj\Debug\net5.0\UTS_SOAL2.AssemblyInfoInputs.cache
+C:\Users\ASU\Desktop\2207135755_M.Harry Falahi_Uts_Daspro\UTS_SOAL_2\obj\Debug\net5.0\UTS_SOAL2.AssemblyInfo.cs
+C:\Users\ASU\Desktop\2207135755_M.Harry Falahi_Uts_Daspro\UTS_SOAL_2\obj\Debug\net5.0\UTS_SOAL2.csproj.CoreCompileInputs.cache
+C:\Users\ASU\Desktop\2207135755_M.Harry Falahi_Uts_Daspro\UTS_SOAL_2\obj\Debug\net5.0\UTS_SOAL2.dll
+C:\Users\ASU\Desktop\2207135755_M.Harry Falahi_Uts_Daspro\UTS_SOAL_2\obj\Debug\net5.0\ref\UTS_SOAL2.dll
+C:\Users\ASU\Desktop\2207135755_M.Harry Falahi_Uts_Daspro\UTS_SOAL_2\obj\Debug\net5.0\UTS_SOAL2.pdb
+C:\Users\ASU\Desktop\2207135755_M.Harry Falahi_Uts_Daspro\UTS_SOAL_2\obj\Debug\net5.0\UTS_SOAL2.genruntimeconfig.cache
