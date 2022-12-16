@@ -1,0 +1,16 @@
+C:\Users\ASU\Desktop\coba boba\bin\Debug\net5.0\coba boba.exe
+C:\Users\ASU\Desktop\coba boba\bin\Debug\net5.0\coba boba.deps.json
+C:\Users\ASU\Desktop\coba boba\bin\Debug\net5.0\coba boba.runtimeconfig.json
+C:\Users\ASU\Desktop\coba boba\bin\Debug\net5.0\coba boba.runtimeconfig.dev.json
+C:\Users\ASU\Desktop\coba boba\bin\Debug\net5.0\coba boba.dll
+C:\Users\ASU\Desktop\coba boba\bin\Debug\net5.0\ref\coba boba.dll
+C:\Users\ASU\Desktop\coba boba\bin\Debug\net5.0\coba boba.pdb
+C:\Users\ASU\Desktop\coba boba\obj\Debug\net5.0\coba boba.csproj.AssemblyReference.cache
+C:\Users\ASU\Desktop\coba boba\obj\Debug\net5.0\coba boba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASU\Desktop\coba boba\obj\Debug\net5.0\coba boba.AssemblyInfoInputs.cache
+C:\Users\ASU\Desktop\coba boba\obj\Debug\net5.0\coba boba.AssemblyInfo.cs
+C:\Users\ASU\Desktop\coba boba\obj\Debug\net5.0\coba boba.csproj.CoreCompileInputs.cache
+C:\Users\ASU\Desktop\coba boba\obj\Debug\net5.0\coba boba.dll
+C:\Users\ASU\Desktop\coba boba\obj\Debug\net5.0\ref\coba boba.dll
+C:\Users\ASU\Desktop\coba boba\obj\Debug\net5.0\coba boba.pdb
+C:\Users\ASU\Desktop\coba boba\obj\Debug\net5.0\coba boba.genruntimeconfig.cache
